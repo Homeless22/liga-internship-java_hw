@@ -1,0 +1,44 @@
+13:14:06 [main] INFO  ru.liga.RateForecasterBotApp - Старт приложения 
+13:14:22 [@ExchangeRateForecastBot Telegram Executor] INFO  ru.liga.RateForecasterBotApp - Пользователь vvorozheykin ввел команду rate USD -period month -alg mist -output graph 
+13:14:22 [@ExchangeRateForecastBot Telegram Executor] INFO  r.l.b.command.custom.RateBotCommand - Пользователь vvorozheykin. Начато выполнение команды rate USD -period month -alg mist -output graph 
+13:14:22 [@ExchangeRateForecastBot Telegram Executor] DEBUG ru.liga.repository.CsvRatesReader - Старт загрузки данных. Валюта: USD 
+13:14:22 [@ExchangeRateForecastBot Telegram Executor] DEBUG ru.liga.repository.CsvRatesReader - Имя файла: rates/USD.csv 
+13:14:22 [@ExchangeRateForecastBot Telegram Executor] DEBUG ru.liga.repository.CsvRatesReader - Загружено записей: 4518:  
+13:14:22 [@ExchangeRateForecastBot Telegram Executor] DEBUG ru.liga.repository.CsvRatesReader - Данные загружены 
+13:14:22 [@ExchangeRateForecastBot Telegram Executor] DEBUG r.l.f.a.MysticalForecastAlgorithm - Старт прогноза по мистическому алгоритму 
+13:14:22 [@ExchangeRateForecastBot Telegram Executor] DEBUG r.l.f.a.MysticalForecastAlgorithm - Начальная дата прогонозирования: Mon Apr 10 13:14:22 MSK 2023 
+13:14:22 [@ExchangeRateForecastBot Telegram Executor] DEBUG r.l.f.a.MysticalForecastAlgorithm - Число прогнозируемых дней: 30 
+13:14:22 [@ExchangeRateForecastBot Telegram Executor] DEBUG r.l.f.a.MysticalForecastAlgorithm - Минимальный год: 2005 
+13:14:22 [@ExchangeRateForecastBot Telegram Executor] DEBUG r.l.f.a.MysticalForecastAlgorithm - Максимальный год: 2023 
+13:14:22 [@ExchangeRateForecastBot Telegram Executor] DEBUG r.l.f.a.MysticalForecastAlgorithm - Прогноз по мистическому алгоритму завершен 
+13:14:23 [@ExchangeRateForecastBot Telegram Executor] INFO  r.l.b.command.custom.RateBotCommand - Пользователь vvorozheykin. Завершено выполнение команды rate USD -period month -alg mist -output graph 
+13:14:23 [@ExchangeRateForecastBot Telegram Executor] INFO  ru.liga.RateForecasterBotApp - Команда vvorozheykin пользователя rate USD -period month -alg mist -output graph выполнена 
+13:14:29 [@ExchangeRateForecastBot Telegram Executor] INFO  ru.liga.RateForecasterBotApp - Пользователь vvorozheykin ввел команду rate USD -period month -alg mist -output list 
+13:14:29 [@ExchangeRateForecastBot Telegram Executor] INFO  r.l.b.command.custom.RateBotCommand - Пользователь vvorozheykin. Начато выполнение команды rate USD -period month -alg mist -output list 
+13:14:29 [@ExchangeRateForecastBot Telegram Executor] DEBUG ru.liga.repository.CsvRatesReader - Старт загрузки данных. Валюта: USD 
+13:14:29 [@ExchangeRateForecastBot Telegram Executor] DEBUG ru.liga.repository.CsvRatesReader - Имя файла: rates/USD.csv 
+13:14:29 [@ExchangeRateForecastBot Telegram Executor] DEBUG ru.liga.repository.CsvRatesReader - Загружено записей: 4518:  
+13:14:29 [@ExchangeRateForecastBot Telegram Executor] DEBUG ru.liga.repository.CsvRatesReader - Данные загружены 
+13:14:29 [@ExchangeRateForecastBot Telegram Executor] DEBUG r.l.f.a.MysticalForecastAlgorithm - Старт прогноза по мистическому алгоритму 
+13:14:29 [@ExchangeRateForecastBot Telegram Executor] DEBUG r.l.f.a.MysticalForecastAlgorithm - Начальная дата прогонозирования: Mon Apr 10 13:14:29 MSK 2023 
+13:14:29 [@ExchangeRateForecastBot Telegram Executor] DEBUG r.l.f.a.MysticalForecastAlgorithm - Число прогнозируемых дней: 30 
+13:14:29 [@ExchangeRateForecastBot Telegram Executor] DEBUG r.l.f.a.MysticalForecastAlgorithm - Минимальный год: 2005 
+13:14:29 [@ExchangeRateForecastBot Telegram Executor] DEBUG r.l.f.a.MysticalForecastAlgorithm - Максимальный год: 2023 
+13:14:29 [@ExchangeRateForecastBot Telegram Executor] DEBUG r.l.f.a.MysticalForecastAlgorithm - Прогноз по мистическому алгоритму завершен 
+13:14:30 [@ExchangeRateForecastBot Telegram Executor] INFO  r.l.b.command.custom.RateBotCommand - Пользователь vvorozheykin. Завершено выполнение команды rate USD -period month -alg mist -output list 
+13:14:30 [@ExchangeRateForecastBot Telegram Executor] INFO  ru.liga.RateForecasterBotApp - Команда vvorozheykin пользователя rate USD -period month -alg mist -output list выполнена 
+13:44:02 [main] INFO  ru.liga.RateForecasterBotApp - Старт приложения 
+13:44:16 [@ExchangeRateForecastBot Telegram Executor] INFO  ru.liga.RateForecasterBotApp - Пользователь vvorozheykin ввел команду rate USD -period month -alg mist -output list 
+13:44:16 [@ExchangeRateForecastBot Telegram Executor] DEBUG r.l.b.command.custom.RateBotCommand - Пользователь vvorozheykin. Начато выполнение команды rate USD -period month -alg mist -output list 
+13:44:16 [@ExchangeRateForecastBot Telegram Executor] DEBUG ru.liga.repository.CsvRatesReader - Старт загрузки данных. Валюта: USD 
+13:44:16 [@ExchangeRateForecastBot Telegram Executor] DEBUG ru.liga.repository.CsvRatesReader - Имя файла: rates/USD.csv 
+13:44:16 [@ExchangeRateForecastBot Telegram Executor] DEBUG ru.liga.repository.CsvRatesReader - Загружено записей: 4518:  
+13:44:16 [@ExchangeRateForecastBot Telegram Executor] DEBUG ru.liga.repository.CsvRatesReader - Данные загружены 
+13:44:16 [@ExchangeRateForecastBot Telegram Executor] DEBUG r.l.f.a.MysticalForecastAlgorithm - Старт прогноза по мистическому алгоритму 
+13:44:16 [@ExchangeRateForecastBot Telegram Executor] DEBUG r.l.f.a.MysticalForecastAlgorithm - Начальная дата прогонозирования: Mon Apr 10 13:44:16 MSK 2023 
+13:44:16 [@ExchangeRateForecastBot Telegram Executor] DEBUG r.l.f.a.MysticalForecastAlgorithm - Число прогнозируемых дней: 30 
+13:44:16 [@ExchangeRateForecastBot Telegram Executor] DEBUG r.l.f.a.MysticalForecastAlgorithm - Минимальный год: 2005 
+13:44:16 [@ExchangeRateForecastBot Telegram Executor] DEBUG r.l.f.a.MysticalForecastAlgorithm - Максимальный год: 2023 
+13:44:16 [@ExchangeRateForecastBot Telegram Executor] DEBUG r.l.f.a.MysticalForecastAlgorithm - Прогноз по мистическому алгоритму завершен 
+13:44:16 [@ExchangeRateForecastBot Telegram Executor] DEBUG r.l.b.command.custom.RateBotCommand - Пользователь vvorozheykin. Завершено выполнение команды rate USD -period month -alg mist -output list 
+13:44:16 [@ExchangeRateForecastBot Telegram Executor] INFO  ru.liga.RateForecasterBotApp - Команда vvorozheykin пользователя rate USD -period month -alg mist -output list выполнена 
